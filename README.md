@@ -68,21 +68,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaagarwal12345&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adityaagarwal12345/Adityaagarwal12345/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
