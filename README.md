@@ -88,7 +88,6 @@
 
 - 📧 Email: **agarwaladitya512@gmail.com**
 - 🧠 LeetCode: https://leetcode.com/u/adityaagarwal12/
-- 💼 LinkedIn: *(add when ready)*
 
 ---
 
