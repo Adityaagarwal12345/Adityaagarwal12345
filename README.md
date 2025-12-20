@@ -54,19 +54,6 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityaagarwal12345&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaagarwal12345&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 
 ## 📫 Connect With Me
