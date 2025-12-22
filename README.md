@@ -43,7 +43,8 @@
 - Clean separation of concerns
 - Production-ready folder structure
 
-🔗 **GitHub Repo:** https://github.com/Adityaagarwal12345/chat-apppp
+🔗 **GitHub Repo:** https://github.com/Adityaagarwal12345/chat-appp
+
 
 ---
 
