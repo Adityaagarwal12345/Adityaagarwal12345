@@ -15,7 +15,7 @@
 - ⚙️ Built **Scalable Real-Time Chat Application** using **Microservices + RabbitMQ**
 - 🔁 Implemented **OTP Authentication via Email Queue**
 - 🧠 Solved **500+ DSA problems on LeetCode**
-- 🚀 Strong focus on **Backend, System Design & Performance**
+- 🚀 Strong focus on **Backend, System Design & Performances**
 - 📈 Actively preparing for **SDE roles**
 
 
