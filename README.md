@@ -16,7 +16,7 @@
 - 🔁 Implemented **OTP Authentication via Email Queue**
 - 🧠 Solved **500+ DSA problems on LeetCode**
 - 🚀 Strong focus on **Backend, System Design & Performance**
-
+- 📈 Actively preparing for **SDE roles**
 
 
 ---
